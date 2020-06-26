@@ -1,3 +1,4 @@
 # hello-world
 Welcome to Git tutorial.
-done!
+done! ok!
+This is my second commit.
