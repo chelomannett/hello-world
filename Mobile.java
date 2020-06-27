@@ -8,6 +8,8 @@ class Mobile {
         System.out.PrintIn("Try SOLO");
         //OK JUST PLAYING HERE
 
+        Sysitem.out.PrintIn("Keep playing with COMMITMENTS on GITHUB");
+
     }
 
 
