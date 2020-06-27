@@ -4,6 +4,8 @@ class Mobile {
 
         System.out.PrintIn("Hello World");
         System.out.PrintIn("Hi World");
+        
+        System.out.PrintIn("Try SOLO");
 
     }
 
